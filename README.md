@@ -1,4 +1,5 @@
 Course Group Project
+<br>
 <b>Overview</b>
 In addition to the mini-apps assigned each week, we will also have a collaborative course-wide project. The class will be broken up into groups of 3 students each, and every group will select a larger project to scope, design and build over the course of the class. At the end of the course, we will do a demo day showcasing all of these projects. 
 
@@ -16,17 +17,17 @@ Projects should not try to do too much given that the project should be able to 
 Product Evaluation Criteria
 When evaluating projects with your team in addition to the guidelines above, consider the following:
 
-Story: How compelling is the story around this app once completed?
+<b>Story:</b> How compelling is the story around this app once completed?
 How clear is the value of this app to your audience?
 How well would your friends or peers respond to this product idea?
-Market: How large or unique is the market for this app?
+<b>Market</b>: How large or unique is the market for this app?
 What's the size and scale of your potential user base?
 Does this app provide huge value to a niche group of people?
 Do you have a well-defined audience of people for this app?
-Habit: How habit-forming or addictive is this app?
+<b>Habit</b>: How habit-forming or addictive is this app?
 How frequently would an average user open and use this app?
 Does an average user just consume your app or do they create?
-Scope: How well-formed is the scope for this app?
+<b>Scope</b>: How well-formed is the scope for this app?
 How technically challenging will it be to complete this app by the end of the program?
 Is a stripped-down version of this app still interesting to build?
 How clearly defined is the product you want to build?
@@ -34,8 +35,8 @@ Our goal is to infuse with you not just technical but also product knowledge too
 
 Remember that you can have a great story but small market. Try to assess the strengths of one criteria against the other ones.
 
-Project Process
-Picking a Project
+<b>Project Process
+Picking a Project</b>
 
 The first thing to do is identify the project you want to build. Keep in mind the Project Guidelines and Product Evaluation Criteria listed above as you settle on an idea.
 
